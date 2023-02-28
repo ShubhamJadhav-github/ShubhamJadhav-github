@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ShubhamJadhav-github/ShubhamJadhav-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there I am Shubham👋
+<!--Shubham JAdhav's Stats-->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ShubhamJadhav-github&show_icons=true&theme=radical" />
+
+<!--MOST USED LANGUAGES-->
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJadhav-github&hide_progress=true" /> -->
