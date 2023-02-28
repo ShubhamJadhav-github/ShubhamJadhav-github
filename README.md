@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # Hi there I am Shubham👋
+
 <!--Shubham JAdhav's Stats-->
+<br><hr>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ShubhamJadhav-github&show_icons=true&theme=radical" />
+
 
 <!--MOST USED LANGUAGES-->
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJadhav-github&hide_progress=true" /> -->
