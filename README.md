@@ -34,9 +34,7 @@
   </p>
   <hr>
   <h2>Contact</h2>
-<a href="https://www.linkedin.com/in/shubham-jadhav-0tb54922b" target="_blank">
-     <img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/10a85ea8-283a-4d47-a6a0-0b0737ea1e39" alt="shubhamjadhav-github" width=80 height=80>
-</a>
+<a href="https://www.linkedin.com/in/shubham-jadhav-0tb54922b"><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/10a85ea8-283a-4d47-a6a0-0b0737ea1e39" alt="LinkedIn" width=80 height=80></a>
 </body>
 
 </html>
