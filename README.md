@@ -22,7 +22,7 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjadhav-github&show_icons=true&locale=en&layout=compact" alt="shubhamjadhav-github" height=250px/></p>
   <hr>
   <h2>Contact</h2>
-<a href="https://www.linkedin.com/in/shubham-jadhav-0tb54922b"><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/10a85ea8-283a-4d47-a6a0-0b0737ea1e39" alt="LinkedIn" width="80" height="80"></a>
+<a href="https://www.linkedin.com/in/shubham-jadhav-0tb54922b" target="_blank">LinkedIn</a>
 <br>
 </body>
 </html>
