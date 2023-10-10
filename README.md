@@ -22,15 +22,19 @@
         </tr>
         <tr><td colspan=5></td></tr>
         <tr>
-            <th colspan=5>Database</th>
+            <th colspan=3>Database</th>
+            <th colspan=3>Framework</th>
         </tr>
         <tr>
-            <td colspan=5 align='center'><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/5194fa47-9f60-4cbf-b348-933725db0cbb" alt="MySQL" width=80 height=80></td>
+            <td colspan=3 align='center'><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/5194fa47-9f60-4cbf-b348-933725db0cbb" alt="MySQL" width=80 height=80></td>
+            <td colspan=3 align='center'><img scr="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/62c7bbb7-99b2-4463-9cda-e0aaab8ae094" alt="Django" width=80 height=80</td>
         </tr>
     </table>
     </div>
     <hr>
+    <div align='center'>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjadhav-github&show_icons=true&locale=en&layout=compact" alt="shubhamjadhav-github" height=250px/></p>
+    </div>
   <hr>
   <h2>Contact</h2>
 <a href="https://www.linkedin.com/in/shubham-jadhav-0tb54922b" target="_blank">LinkedIn</a>
