@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td colspan=3 align='center'><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/5194fa47-9f60-4cbf-b348-933725db0cbb" alt="MySQL" width=80 height=80></td>
-            <td colspan=3 align='center'><img scr="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/62c7bbb7-99b2-4463-9cda-e0aaab8ae094" alt="Django" width=80 height=80</td>
+            <td colspan=3 align='center'><img scr="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/b098e8e8-0c67-40f4-9439-edd54cdc76f2" alt="Django" width=80 height=80</td>
         </tr>
     </table>
     </div>
