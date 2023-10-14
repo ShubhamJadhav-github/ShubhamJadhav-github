@@ -10,24 +10,20 @@
     <hr>
     <h2>Techincal Skills</h2>
     <div align='center'>
-    <table border=0>
-        <tr><th colspan=5>Languages</th></tr>
+    <table>
+        <tr><th colspan=4>Languages</th></tr>
         <tr>
-            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/23354c94-091d-4089-b637-ed289d9b1366" alt="Python" width=80 height=80></td><td>Advanced</td><td></td>
-            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/b6eeb12e-4025-4503-a8dd-febfea601f17" alt="C Language" width=80 height=80></td><td>Intermediate</td>
+            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/23354c94-091d-4089-b637-ed289d9b1366" alt="Python" width=80 height=80></td>
+            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/b6eeb12e-4025-4503-a8dd-febfea601f17" alt="C Language" width=80 height=80></td>
+            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/d976030c-a2cc-457c-babe-4b713ccaa015" alt="C++" width=80 height=80></td>
+            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/fd8b4701-314c-48cb-87eb-3198ef84dd66" alt="Java" width=80 height=80></td>
         </tr>
+        <tr><td colspan=4><br></td></tr>
+        <tr><th colspan=2>Database</th><th colspan=2>FrameWork</th></tr>
         <tr>
-            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/d976030c-a2cc-457c-babe-4b713ccaa015" alt="C++" width=80 height=80></td><td>Intermediate</td><td></td>
-            <td><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/fd8b4701-314c-48cb-87eb-3198ef84dd66" alt="Java" width=80 height=80></td><td>Intermediate</td>
-        </tr>
-        <tr><td colspan=5></td></tr>
-        <tr>
-            <th colspan=3>Database</th>
-            <th colspan=3>Framework</th>
-        </tr>
-        <tr>
-            <td colspan=3 align='center'><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/5194fa47-9f60-4cbf-b348-933725db0cbb" alt="MySQL" width=80 height=80></td>
-            <td colspan=3 align='center'><img scr="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/b098e8e8-0c67-40f4-9439-edd54cdc76f2" alt="Django" width=80 height=80</td>
+            <td align='center'><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/5194fa47-9f60-4cbf-b348-933725db0cbb" alt="MySQL" width=80 height=80></td>
+            <td align='center'><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/b2aeac41-2299-45d0-99a4-399a98b6b0f8" alt="PostgreSQL" width=80 height=80></td>
+            <td align='center' colspan=2><img src="https://github.com/ShubhamJadhav-github/ShubhamJadhav-github/assets/111007875/33bbd165-6ad6-4bef-9e3b-cb9212244089" alt="Django" width=150 height=80></td>
         </tr>
     </table>
     </div>
