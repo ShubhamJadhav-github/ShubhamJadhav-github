@@ -34,7 +34,7 @@
   <hr>
   <h2>Contact</h2>
 <p>LinkedIn: https://www.linkedin.com/in/shubham-jadhav-0tb54922b</p><br>
-<p>Gmail: shubhamjadhav0806@gmail.com</p>
+<p>Gmail: <a href="#">shubhamjadhav0806@gmail.com</a></p>
 <br>
 </body>
 </html>
