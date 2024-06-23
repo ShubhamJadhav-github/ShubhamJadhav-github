@@ -33,8 +33,8 @@
     </div>
   <hr>
   <h2>Contact</h2>
-<a href="https://www.linkedin.com/in/shubham-jadhav-0tb54922b" target="_blank">LinkedIn</a><br>
-<a href="shubhamjadhav0806@gmail.com" target="_blank">Gmail</a>
+<p>LinkedIn: https://www.linkedin.com/in/shubham-jadhav-0tb54922b</p><br>
+<p>Gmail: shubhamjadhav0806@gmail.com</p>
 <br>
 </body>
 </html>
