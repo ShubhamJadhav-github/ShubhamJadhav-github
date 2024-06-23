@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 style="color:red">Shubham Jadhav</h1>
-    <h4>Computer Engineering Student<br>From North Maharashtra University</h4>
+    <h4>Computer Engineer</h4>
     <hr>
     <h2>Techincal Skills</h2>
     <div align='center'>
