@@ -10,6 +10,11 @@
     <hr>
     
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjadhav-github&show_icons=true&locale=en&layout=compact" alt="shubhamjadhav-github" height=250px/></p>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjadhav-github&layout=compact&hide=css,html,shell,batch,dockerfile,makefile,jupyter%20notebook,tsql,cmake,scss,objective-c,typescript,perl,ruby,r,go,kotlin,swift,visual%20basic,assembly,lua,haskell,elixir,coffeescript" height="250px" />
+</p>
+
     </div>
   <hr>
   <h2>Contact</h2>
